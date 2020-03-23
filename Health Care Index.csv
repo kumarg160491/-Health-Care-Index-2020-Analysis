@@ -1,0 +1,94 @@
+Rank,Country,Health care index,Health care Exp. Index,Country Code
+1,Taiwan,86.71,159.66,TWN
+2,South Korea,81.97,149.94,
+3,Japan,81.14,148.24,JPN
+4,Denmark,80,147.47,DNK
+5,France,79.99,146.81,FRA
+6,Spain,78.88,145.24,ESP
+7,Austria,78.73,144.24,AUT
+8,Thailand,77.95,142.04,THA
+9,Australia,77.38,140.97,AUS
+10,Finland,75.79,138.01,FIN
+11,Netherlands,74.65,136.05,NLD
+12,Czech Republic,74.62,136.97,CZE
+13,United Kingdom,74.46,136.57,GBR
+14,Norway,74.36,135.67,NOR
+15,Belgium,74.34,134.81,BEL
+16,New Zealand,73.81,133.94,NZL
+17,Germany,73.32,133.56,DEU
+18,Qatar,73.3,133.07,QAT
+19,Israel,73.29,134.31,ISR
+20,Estonia,72.67,132.9,EST
+21,Sri Lanka,72.53,131.07,LKA
+22,Switzerland,72.44,136.25,CHE
+23,Portugal,71.88,130.79,PRT
+24,Canada,71.58,131.44,CAN
+25,Singapore,70.84,131.52,SGP
+26,Ecuador,70.59,126.98,ECU
+27,Mexico,70.12,125.71,MEX
+28,Turkey,69.8,125.57,TUR
+29,Lithuania,69.49,125.61,LTU
+30,United States,69.27,127.3,USA
+31,Argentina,69.25,125.67,
+32,Sweden,69.23,126.86,SWE
+33,Malta,68.81,123.37,MLT
+34,Malaysia,68.1,122.52,MYS
+35,Guatemala,67.75,121.19,GTM
+36,Philippines,67.47,120.67,PHL
+37,Colombia,67.24,120.65,COL
+38,India,67.13,120.5,IND
+39,United Arab Emirates,67.04,123.91,ARE
+40,Italy,66.59,120.66,ITA
+41,Uruguay,66.28,119.62,URY
+42,Hong Kong,66.08,119.75,HKG
+43,Iceland,65.92,120.3,ISL
+44,Chile,65.44,118.89,
+45,Jordan,64.6,116.14,JOR
+46,Slovenia,64.58,118.92,SVN
+47,China,64.48,115.53,
+48,Lebanon,64.38,120.05,LBN
+49,South Africa,64.14,115.76,ZAF
+50,Latvia,62.91,113.01,LVA
+51,Croatia,62.68,115.03,HRV
+52,Costa Rica,62.42,112.66,
+53,Poland,61.01,109.36,POL
+54,Pakistan,60.59,107.33,PAK
+55,Indonesia,60.48,107.29,IDN
+56,Slovakia,60.02,108.64,SVK
+57,Panama,59.93,106.08,PAN
+58,Saudi Arabia,59.11,105.18,SAU
+59,Belarus,59.04,105.39,
+60,Oman,58.15,103.73,OMN
+61,Vietnam,57.7,100.69,VNM
+62,Russia,57.59,101.55,RUS
+63,Tunisia,57.18,100.55,TUN
+64,Nepal,56.88,99.67,NPL
+65,North Macedonia,56.38,100.54,
+66,Brazil,56.29,100.08,
+67,Greece,56.21,99.67,GRC
+68,Kuwait,56.21,100.47,KWT
+69,Peru,56.15,98.5,PER
+70,Puerto Rico,55.73,101.76,PRI
+71,Kenya,55.59,98.02,KEN
+72,Bulgaria,55.4,98.03,
+73,Romania,55.06,96.89,ROU
+74,Algeria,54.86,99.61,
+75,Trinidad And Tobago,54.73,100.89,TTO
+76,Dominican Republic,54.67,95.61,
+77,Albania,53.05,92.72,
+78,Ukraine,52.33,91.33,UKR
+79,Bosnia And Herzegovina,52.26,93.3,
+80,Ireland,51.89,94.23,IRL
+81,Cyprus,51.75,89.36,
+82,Iran,51.7,90.06,IRN
+83,Nigeria,51.59,89.88,NGA
+84,Serbia,51.27,92.17,SRB
+85,Georgia,51.24,88.33,
+86,Kazakhstan,50.7,88.95,KAZ
+87,Hungary,47.8,86.17,HUN
+88,Egypt,45.84,78.61,
+89,Morocco,45.72,77.88,MAR
+90,Azerbaijan,43.18,74.96,
+91,Bangladesh,42.8,73.17,
+92,Iraq,41.36,70.2,IRQ
+93,Venezuela,39.66,69.1,VEN
